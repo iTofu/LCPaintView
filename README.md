@@ -61,6 +61,18 @@ Just drag the LCPaintView folder into your project.
   });
   ```
 
+* Custom:
+
+  ```objc
+  // Properties
+  paintView.lineWidth = 10.0f;
+  paintView.lineColor = [UIColor redColor];
+
+  // Methods
+  [paintView clear];
+  [paintView undo];
+  ```
+
 
 ## ChangeLog
 
