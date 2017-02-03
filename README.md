@@ -57,7 +57,7 @@ Just drag the LCPaintView folder into your project.
       LCPaintView *paintView = [[LCPaintView alloc] init];
       paintView.frame = CGRectMake(0, 0, screenSize.width, screenSize.height);
       [self.view insertSubview:paintView atIndex:0];
-      self.paintView = paintView;
+      paintView;
   });
   ```
 
