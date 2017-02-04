@@ -97,4 +97,4 @@ Just drag the LCPaintView folder into your project.
 
 ## License
 
-[MIT License](http://opensource.org/licenses/MIT)
+[MIT License](https://opensource.org/licenses/MIT)
