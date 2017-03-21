@@ -8,7 +8,7 @@
 
 🖌 Paint view for iOS.
 
-![LCPaintView](https://raw.githubusercontent.com/iTofu/LCPaintView/master/LCPaintViewDemo.png)
+<img src="https://raw.githubusercontent.com/iTofu/LCPaintView/master/LCPaintViewDemo.png" alt="LCPaintView" title="LCPaintView" width="320"/>
 
 ```
 In me the tiger sniffs the rose.
@@ -86,13 +86,21 @@ Just drag the LCPaintView folder into your project.
 
 * If you have any question, just [commit a issue](https://github.com/iTofu/LCPaintView/issues/new)!
 
-* Mail: `echo ZGV2dGlwQDE2My5jb20K | base64 -D`
+* Mail: `echo bGVvZGF4aWFAZ21haWwuY29tCg== | base64 -D` or `echo ZGV2dGlwQDE2My5jb20K | base64 -D`
 
 * Blog: http://LeoDev.me
 
-* Friendly sponsorship with Alipay or Wechat Pay, thank you!
+* Donations:
 
-  ![Leo](https://cdnqiniu.leodev.me/paid_to_leo.png)
+  * PayPal:
+  
+    [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=leodaxia@gmail.com&item_name=Support%20Leo)
+  
+  * Alipay or Wechat Pay:
+  
+    <img src="https://cdnqiniu.leodev.me/donate.png" alt="Donate with Alipay or Wechat Pay" title="Donate with Alipay or Wechat Pay" width="320"/>
+    
+  Please note: donation does not imply any type of service contract.
 
 
 ## License
